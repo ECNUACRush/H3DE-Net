@@ -1,4 +1,4 @@
-# 3D BiFormer-Net: A Hybrid Transformer-CNN Framework for Robust Medical Image Landmark Detection
+# H3DE-Net: Efficient and Accurate 3D Landmark Detection in Medical Imaging
 
 ## 1. Introduction
 ### 1.1 What for?
